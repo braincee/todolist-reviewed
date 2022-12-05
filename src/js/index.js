@@ -1,5 +1,5 @@
 /* eslint-disable max-classes-per-file */
-import './style.css';
+import '../styles/style.css';
 import ToDos from './todos.js';
 import NewToDos from './display.js';
 
