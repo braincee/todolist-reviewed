@@ -1,4 +1,3 @@
-/* eslint-disable max-classes-per-file */
 import Task from './todo.js';
 import Storage from './storage.js';
 import BooleanTodo from './boolean.js';

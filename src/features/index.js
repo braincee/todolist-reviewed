@@ -1,7 +1,7 @@
 /* eslint-disable max-classes-per-file */
-import './style.css';
-import ToDos from './modules/todos.js';
-import NewToDos from './modules/display.js';
+import '../styles/style.css';
+import ToDos from './todos.js';
+import NewToDos from './display.js';
 
 const selector = (element) => document.querySelector(element);
 const selectorAll = (element) => document.querySelectorAll(element);
